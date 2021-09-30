@@ -1,0 +1,11 @@
+{"tokens":[
+{"key":"BNB","name":"BNB","display_name":"BNB","scale":8,"id":"?"},
+{"key":"BTCB","name":"BTCB","display_name":"BTCB","scale":8,"id":"?"},
+{"key":"BUSD","name":"BUSD","display_name":"BUSD","scale":8,"id":"?"},
+{"key":"DEBT","name":"DEBT","display_name":"DEBT","scale":8,"id":"?"},
+{"key":"HARD","name":"HARD","display_name":"HARD","scale":6,"id":"?"},
+{"key":"HBTC","name":"HBTC","display_name":"HBTC","scale":8,"id":"?"},
+{"key":"SWP","name":"SWP","display_name":"SWP","scale":8,"id":"?"},
+{"key":"USDX","name":"USDX","display_name":"USDX","scale":6,"id":"?"},
+{"key":"XRPB","name":"XRPB","display_name":"XRPB","scale":8,"id":"?"}
+]}
