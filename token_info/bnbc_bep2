@@ -190,7 +190,7 @@
 {"key":"NOIZB-878","name":"NOIZB-878","display_name":"NOIZ Token","scale":8,"id":"?"},
 {"key":"NOW-E68","name":"NOW-E68","display_name":"NOW Token","scale":8,"id":"?"},
 {"key":"NPXB-1E8","name":"NPXB-1E8","display_name":"NPX Binance token","scale":18,"id":"0xd8cb4c2369db13c94c90c7fd3bebc9757900ee6b"},
-{"key":"NPXSXEM-89C","name":"NPXSXEM-89C","display_name":"Pundi X NEM","scale":8,"id":"?"},
+{"key":"NPXSXEM-89C","name":"NPXSXEM-89C","display_name":"Pundi X NEM","scale":18,"id":"0xfb1f2feb4a48087d25fdf13cc98272f3efca0939"},
 {"key":"ONE-5F9","name":"ONE-5F9","display_name":"Harmony.One","scale":8,"id":"?"},
 {"key":"ONT-33D","name":"ONT-33D","display_name":"ONTBEP2","scale":18,"id":"0xfd7b3a77848f1c2d67e05e54d78d174a0c850335"},
 {"key":"OWTX-A6B","name":"OWTX-A6B","display_name":"OpenWeb Token","scale":8,"id":"?"},

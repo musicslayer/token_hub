@@ -14,5 +14,6 @@
 {"key":"VEED","name":"VEED","display_name":"VIMworld","scale":18,"id":"0x67fd63f6068962937ec81ab3ae3bf9871e524fc9"},
 {"key":"VPU","name":"VPU","display_name":"VPunks Token","scale":18,"id":"0xb0821559723db89e0bd14fee81e13a3aae007e65"},
 {"key":"MVG","name":"MVG","display_name":"Mad Viking Games","scale":18,"id":"0x99763494a7b545f983ee9fe02a3b5441c7ef1396"},
-{"key":"WoV","name":"WoV","display_name":"WorldOfV","scale":18,"id":"0x170f4ba8e7acf6510f55db26047c83d13498af8a"}
+{"key":"WoV","name":"WoV","display_name":"WorldOfV","scale":18,"id":"0x170f4ba8e7acf6510f55db26047c83d13498af8a"},
+{"key":"GEMS","name":"GEMS","display_name":"GEMS","scale":18,"id":"0x28c61940bdcf5a67158d00657e8c3989e112eb38"}
 ]}
