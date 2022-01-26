@@ -4680,5 +4680,13 @@
 {"key":"1004690","name":"abs","display_name":"abs","scale":6,"id":"1004690"},
 {"key":"1004691","name":"EBC","display_name":"EnergyBitCC","scale":6,"id":"1004691"},
 {"key":"1004692","name":"KBY","display_name":"KBY","scale":2,"id":"1004692"},
-{"key":"1004693","name":"SFA","display_name":"SFA","scale":6,"id":"1004693"}
+{"key":"1004693","name":"SFA","display_name":"SFA","scale":6,"id":"1004693"},
+{"key":"1004694","name":"XDR","display_name":"XDinar","scale":6,"id":"1004694"},
+{"key":"1004695","name":"HMM","display_name":"HMMWealthCoin","scale":1,"id":"1004695"},
+{"key":"1004696","name":"BTZC","display_name":"BTZC","scale":6,"id":"1004696"},
+{"key":"1004697","name":"KBY2","display_name":"KBY2","scale":6,"id":"1004697"},
+{"key":"1004698","name":"BTZC","display_name":"BTZCcuurrency","scale":0,"id":"1004698"},
+{"key":"1004699","name":"GRUB","display_name":"GRUB","scale":6,"id":"1004699"},
+{"key":"1004700","name":"FRRC","display_name":"ForeverRise","scale":3,"id":"1004700"},
+{"key":"1004701","name":"OSTR","display_name":"Ostrich","scale":3,"id":"1004701"}
 ]}

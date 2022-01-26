@@ -175,6 +175,7 @@
 {"key":"YGEM-8F6M","name":"YGEM-8F6M","display_name":"generation finance","scale":8,"id":"?"},
 {"key":"YGEM-DC2M","name":"YGEM-DC2M","display_name":"ygem","scale":8,"id":"?"},
 {"key":"ZANO-F71M","name":"ZANO-F71M","display_name":"Zano","scale":8,"id":"?"},
+{"key":"ZCC-40BM","name":"ZCC-40BM","display_name":"ZuCoinChain","scale":8,"id":"?"},
 {"key":"ZENK-8BCM","name":"ZENK-8BCM","display_name":"ZenKoin","scale":8,"id":"?"},
 {"key":"ZONIC-C26M","name":"ZONIC-C26M","display_name":"ZONIC","scale":8,"id":"?"}
 ]}
