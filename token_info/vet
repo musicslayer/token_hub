@@ -18,5 +18,12 @@
 {"key":"GEMS","name":"GEMS","display_name":"GEMS","scale":18,"id":"0x28c61940bdcf5a67158d00657e8c3989e112eb38"},
 {"key":"VEX","name":"VEX","display_name":"Vexchange","scale":18,"id":"0x0bd802635eb9ceb3fcbe60470d2857b86841aab6"},
 {"key":"VEUSD","name":"VEUSD","display_name":"VeUSD","scale":6,"id":"0x4e17357053da4b473e2daa2c65c2c949545724b8"},
-{"key":"DHN","name":"DHN","display_name":"Dohrnii","scale":18,"id":"0x8e57aadf0992afcc41f7843656c6c7129f738f7b"}
+{"key":"VVET","name":"VVET","display_name":"Veiled VET","scale":18,"id":"0x45429a2255e7248e57fce99e7239aed3f84b7a53"},
+{"key":"DHN","name":"DHN","display_name":"Dohrnii","scale":18,"id":"0x8e57aadf0992afcc41f7843656c6c7129f738f7b"},
+{"key":"UNION","name":"UNION","display_name":"UNION token","scale":18,"id":"0x34109fc2a649965eecd953d31802c67dcc183d57"},
+{"key":"VST","name":"VST","display_name":"VeStacks","scale":18,"id":"0xb9c146507b77500a5cedfcf468da57ba46143e06"},
+{"key":"PPR","name":"PPR","display_name":"Paper Token","scale":18,"id":"0x2f10726b240d7efb08671f4d5f0a442db6f29416"},
+{"key":"DRAGON","name":"DRAGON","display_name":"Dragon Coin","scale":18,"id":"0x107a0b0faeb58c1fdef97f37f50e319833ad1b94"},
+{"key":"VSEA","name":"VSEA","display_name":"VeSea Token","scale":18,"id":"0x23368c20c16f64ecbb30164a08666867be22f216"},
+{"key":"BANANA","name":"BANANA","display_name":"BananaCoin","scale":18,"id":"0xf01069227b814f425bad4ba70ca30580f2297ae8"}
 ]}
